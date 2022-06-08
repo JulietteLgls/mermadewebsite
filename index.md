@@ -17,8 +17,8 @@ _________________________________
 
 ### Reach me on
 
-![linkedin](/images/linkedin.png)(https://www.linkedin.com/in/juliette-langlois-838271109/)
+[![linkedin](/images/linkedin.png)](https://www.linkedin.com/in/juliette-langlois-838271109/)
 
-![twitter](/images/twitter.png)(https://twitter.com/Juliette__L) 
+[![twitter](/images/twitter.png)](https://twitter.com/Juliette__L) 
 
 ![gmail](/images/gmail.png) <juliette.a.langlois@gmail.com>
