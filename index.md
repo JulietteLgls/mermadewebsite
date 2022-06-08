@@ -2,9 +2,7 @@
 ________________
 ![dive](/images/freedivingjuju.png)
 <img align="left" width="154" height="120" src="/images/freedivingjuju.png">Juliette Langlois
-
 @ :   juliette.a.langlois@gmail.com
-
 tel : 0613880014
 
 _________________
