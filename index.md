@@ -8,7 +8,7 @@
 ## Publications
 
 ## Diving
-!["images/freedivingjuju.png"]("images/freedivingjuju.png")
+!["mermadewebsite/images/freedivingjuju.png"]("images/freedivingjuju.png")
 
 
 **Bold** and _Italic_ 
