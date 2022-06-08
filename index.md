@@ -1,6 +1,6 @@
 # MerMade
 ________________
-<img style="float: right;" src="/images/freedivingjuju.png">\ Juliette Langlois
+<img align="left" src="/images/freedivingjuju.png">Juliette Langlois
 juliette.a.langlois@gmail.com
 0613880014
 
