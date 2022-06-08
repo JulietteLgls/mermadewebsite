@@ -8,7 +8,7 @@ tel : 0613880014
 
 _________________
 
-man tend to protect what they love and to love what they know. Therefore I want to contribute to a better knowledge of the ocean realm by all, scientist and general public through contributing to research and protection, being part of active restoration and introduce people to this magnificent aquatic world.
+human tend to protect what they love and to love what they know. Therefore I want to contribute to a better knowledge of the ocean realm by all, scientist and general public through contributing to research and protection, being part of active restoration and introduce people to this magnificent aquatic world.
 
 _________________
   
