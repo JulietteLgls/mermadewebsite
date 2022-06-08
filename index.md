@@ -11,7 +11,7 @@
 
 ## Diving
 
-![freedivingjuju]("/freedivingjuju.png")
+![freedivingjuju](/images/freedivingjuju.png)
 
 
 **Bold** and _Italic_ 
