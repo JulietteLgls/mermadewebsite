@@ -1,10 +1,10 @@
 # MerMade
 ________________
-<img align="left" src="/images/freedivingjuju.png"> ## Juliette Langlois
+<img align="left" src="/images/freedivingjuju.png"> **Juliette Langlois**
 
-juliette.a.langlois@gmail.com
+@ :   juliette.a.langlois@gmail.com
 
-0613880014
+tel : 0613880014
 
 
 
