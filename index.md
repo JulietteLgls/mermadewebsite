@@ -1,10 +1,11 @@
 # MerMade
 ________________
-<img align="left" src="/images/freedivingjuju.png">Juliette Langlois
+<img align="left" src="/images/freedivingjuju.png"> ## Juliette Langlois
 
 juliette.a.langlois@gmail.com
 
 0613880014
+
 
 
 Human tend to protect what they love and to love what they know. Therefore I want to contribute to a better knowledge of the ocean realm by all, scientist and general public through contributing to research and protection, being part of active restoration and introduce people to this magnificent aquatic world.
