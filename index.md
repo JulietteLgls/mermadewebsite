@@ -9,17 +9,8 @@ ________________
 
 ## Publications
 
-## Diving
+<img src="/images/freedivingjuju.png" width="111" height="86.25"> ## Diving
 
-<img src="/images/freedivingjuju.png" width="111" height="86.25">
-
-![freedivingjuju](/images/freedivingjuju.png)
-
-__________________________________
-
-**Bold** and _Italic_ 
-
-[Link](url) and ![Image](src)
 
 _________________________________
 
@@ -27,6 +18,6 @@ _________________________________
 
 Reach me on
 
-[linkedin](https://www.linkedin.com/in/juliette-langlois-838271109/)
-[twitter](https://twitter.com/Juliette__L) 
-<juliette.a.langlois@gmail.com>
+[<img src="/images/linkedin.png" width="50" height="50">](https://www.linkedin.com/in/juliette-langlois-838271109/)
+[<img src="/images/twitter.png" width="50" height="50">](https://twitter.com/Juliette__L) 
+<img src="/images/gmail.png" width="88.5" height="50"><juliette.a.langlois@gmail.com>
