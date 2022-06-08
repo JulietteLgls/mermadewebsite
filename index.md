@@ -1,7 +1,9 @@
 # MerMade
 ________________
 ![dive](/images/freedivingjuju.png)<img align="left">Juliette Langlois
+
 @ :   juliette.a.langlois@gmail.com
+
 tel : 0613880014
 
 _________________
